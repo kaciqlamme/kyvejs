@@ -91,3 +91,5 @@ The following methods are available on the Coins class:
 - isAnyGT() - check if any coins are greater
 - isAnyLTE() - check if any coins are less equal
 - isAnyLT() - check if any coins are less
+
+<!-- Auto-update: 2025-10-11T13:00:42.500868 -->
