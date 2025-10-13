@@ -93,3 +93,5 @@ The following methods are available on the Coins class:
 - isAnyLT() - check if any coins are less
 
 <!-- Auto-update: 2025-10-11T13:00:42.500868 -->
+
+<!-- Auto-update: 2025-10-14T04:27:58.443429 -->
