@@ -116,3 +116,4 @@ You can verify the installation with printing the version:
 
 Once you have downloaded the binary for the correct platform and version you can simply unzip them and move them
 to your desired location (like KYSOR).
+<!-- Auto-update: 2025-10-17T13:02:19.878023 -->
